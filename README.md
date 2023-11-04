@@ -1,3 +1,4 @@
+![logo](https://github.com/Jay-shm/Jay-shm/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Jay Rane</h1>
 <h3 align="center">Passionate computer engineering student driven to extract insights from data for practical business solutions.</h3>
 
